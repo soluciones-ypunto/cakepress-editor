@@ -1,5 +1,5 @@
 {
-    "name": "xavier83ar/cakepress-editor",
+    "name": "soluciones-ypunto/cakepress-editor",
     "description": "Cakepress Editor plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
